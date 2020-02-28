@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{F499BB9E-B0AC-4978-9DBA-A321B7F90D7A}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChilkatBind.Android PreferredExecutionTarget="Android.pixel_2_q_10_0_-_api_29" />
+  <MonoDevelop.Ide.ItemProperties.ChilkatBind.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.09430001-8675-4F07-9F68-416771EE4821" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChilkatBind.iOS/ChilkatServiceiOS.cs">
+    <Files>
+      <File FileName="ChilkatBind.Android/MainActivity.cs" Line="33" Column="2" />
+      <File FileName="ChilkatBind/ChilkatService.cs" Line="4" Column="36" />
+      <File FileName="ChilkatBind.Android/ChilkatServiceAndroid.cs" Line="70" Column="10" />
+      <File FileName="ChilkatBind/MainPage.xaml.cs" Line="31" Column="6" />
+      <File FileName="ChilkatBind/App.xaml.cs" Line="20" Column="10" />
+      <File FileName="ChilkatBind.iOS/ChilkatServiceiOS.cs" Line="41" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChilkatBind" expanded="True">
+            <Node name="Library" expanded="True">
+              <Node name="ChilkatDroid" expanded="True" />
+              <Node name="ChilkatiOSDevice" expanded="True">
+                <Node name="libchilkatIos.a" expanded="True" />
+              </Node>
+              <Node name="ChilkatiOSSimulator" expanded="True">
+                <Node name="libchilkatIos.a" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ChilkatBind" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="ChilkatBind.Android" expanded="True">
+              <Node name="jniLibs" expanded="True" />
+            </Node>
+            <Node name="ChilkatBind.iOS" expanded="True">
+              <Node name="ChilkatServiceiOS.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChilkatBind FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Library.ChilkatiOSDevice FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
